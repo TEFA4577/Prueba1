@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AppDOG</string>
+    <string name="Welcome">Bienvenido a AppDOG!</string>
+    <string name="imagebtn">foto</string>
+
+    //registro de la mascota
+    <string name="rgt_masc">Ingresa los datos de tu mascota</string>
+    <string name="nom_masc">Ingresa el nombre de tu mascota</string>
+    <string name="nom_rza">Selecciona la raza correspondiente</string>
+    <string-array name="rza_masc">Selecciona su raza
+        <item>Beagle</item>
+        <item>Pug</item>
+    </string-array>
+    <string name="edad_masc">Selecciona la edad de tu mascota</string>
+    <string-array name="edad_masc">Selecciona su edad
+        <item>2 años</item>
+        <item>3 años</item>
+    </string-array>
+    <string name="tam_masc">¿Cual es el tamaño de tu mascota?</string>
+    <string-array name="tam_masc">Selecciona su raza
+        <item>Pequeño</item>
+        <item>Mediano</item>
+    </string-array>
+    <string name="mar_com">Selecciona la marca de su comida</string>
+    <string-array name="mar_com">Selecciona la marca
+        <item>Purina</item>
+        <item>ProPlan</item>
+    </string-array>
+    <string name="rg_pso">Selecciona el rango de su peso</string>
+    <string-array name="rg_peso">Selecciona su peso
+        <item>2 Kg - 4 kg</item>
+        <item>5 Kg - 7 kg</item>
+        <item>8 Kg - 10 kg</item>
+    </string-array>
+    <string name="hr_preg">¿Su mascota tiene un horario de alimentación?</string>
+    <string name="rb1">Sí</string>
+    <string name="rb2">No</string>
+
+
+    <string name="btn_save">Guardar Datos</string>
+
+
+</resources>
